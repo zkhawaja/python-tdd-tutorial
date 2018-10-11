@@ -2,7 +2,6 @@ import random
 import unittest
 
 class TestSequenceFunctions(unittest.TestCase):
-    #Salut
 
     def setUp(self):
         self.seq = range(10)
